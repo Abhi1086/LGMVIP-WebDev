@@ -31,6 +31,5 @@ Create a web application using create-react-app
 ![task2readme](https://user-images.githubusercontent.com/64949957/129468192-4186871a-f991-455e-a9ac-f2b66cb6ba6f.gif)
 
 
-**© 2021 Jigar Sable**
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
